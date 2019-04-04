@@ -1,7 +1,7 @@
 # istidanaharjanti.github.io
 resume page using bulma resume temlate by Irfan
 
-#bulma-resume-templatte
+# bulma-resume-templatte
 
 💼 Free resume page template with bulma css
 
