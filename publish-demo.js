@@ -1,5 +1,5 @@
-const ghpages = require('gh-pages')
-const BRANCH = 'gh-pages'
+const ghpages = require('master')
+const BRANCH = 'master'
 const FOLDER_DIST = 'dist'
 
 const TODAY = new Date().toLocaleString()
