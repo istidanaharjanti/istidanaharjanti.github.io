@@ -1,4 +1,4 @@
-const ghpages = require('master')
+const ghpages = require('gh-pages')
 const BRANCH = 'master'
 const FOLDER_DIST = 'dist'
 
